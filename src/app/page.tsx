@@ -22,7 +22,6 @@ export default function Home() {
         {/* About website */}
         <p className="text-sm md:text-base text-neutral-400 leading-relaxed">
           This website is about education, teacher Pat’s projects, AI, coding,
-          and technology courses.
         </p>
       </div>
     </main>
