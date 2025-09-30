@@ -15,7 +15,7 @@ export default function Home() {
         {/* Coming soon */}
         <div className="mt-6">
           <p className="text-xl md:text-2xl font-medium">
-            🚧 กำลังปรับปรุง แล้วเจอกันเร็วๆนี้ 🚀
+            🚧 We’re working on it. Coming soon! 🚀
           </p>
         </div>
 
